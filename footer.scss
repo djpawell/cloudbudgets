@@ -1,0 +1,28 @@
+footer {
+    height: 435px;
+    margin:0 20px;
+    display: flex!important;
+    justify-content: center;
+    width:100%;
+}
+.footer {
+    width:100%;
+    max-width: 1099px;
+}
+#footer {
+    display:flex;
+    justify-content: space-between;
+    div {
+        margin:85px 0;
+        font-family: 'Lato',sans-serif;
+        h1 {
+            font-weight: bold;
+            font-size: 18px;
+        }
+        h4 {
+            font-weight: bold;
+            font-size: 12px;
+            padding-top: 33px;
+        }
+    }
+}
